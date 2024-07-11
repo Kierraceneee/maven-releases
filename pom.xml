@@ -15,8 +15,8 @@
     </dependency>
   </dependencies>
   <scm>
-    <connection>scm:https://github.com/Kierraceneee/maven-releases.git</connection>
-    <developerConnection>scm:https://github.com/Kierraceneee/maven-releases.git</developerConnection>
+    <connection>scm:git:https://github.com/Kierraceneee/maven-releases.git</connection>
+    <developerConnection>scm:git:https://github.com/Kierraceneee/maven-releases.git</developerConnection>
     <url>https://github.com/Kierraceneee/maven-releases.git</url>
     <tag>HEAD</tag>
   </scm>
